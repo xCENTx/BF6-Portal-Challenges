@@ -1,0 +1,19 @@
+# exclude SDK
+SDK/
+
+# exclude binaries
+bin/
+obj/
+debug/
+release/
+*.exe
+*.dll
+*.so
+
+# exclude personal settings
+*.user
+*.suo
+*.log
+*.tmp
+*.bak
+*.code-workspace
