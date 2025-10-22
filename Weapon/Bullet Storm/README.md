@@ -11,3 +11,4 @@
 ### Requirements
 - AIBot Spawner
 - AI move to player crosshair
+- Modify damage to 10,000
